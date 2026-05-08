@@ -1,4 +1,4 @@
-# basic-agentic-collaboration protocol
+# The basic-agentic-collaboration protocol
 
 A protocol for AI agents and humans to work on issues together, where the agent proposes and the human executes.
 
